@@ -1,9 +1,20 @@
-# Learning Objectives
-How to create a new MySQL user
-How to manage privileges for a user to a database or table
-What’s a PRIMARY KEY
-What’s a FOREIGN KEY
-How to use NOT NULL and UNIQUE constraints
-How to retrieve datas from multiple tables in one request
-What are subqueries
-What are JOIN and UNION
+# More Queries
+
+
+![](https://miro.medium.com/max/768/1*94n7Yjm2xml9dVFbTph0hA.jpeg)
+
+## Links for futher reading :microscope:
+
+- [SQL-Commands-Cheat-Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf)
+
+
+- [SQL technique: subqueries](https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php)
+
+
+- [MySQL constraints](https://zetcode.com/mysql/constraints/)
+
+
+- [7 types of SQL JOINs](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
+
+
+- [Derek Banas Tutorial :yum:](https://www.youtube.com/watch?v=yPu6qV5byu4)
